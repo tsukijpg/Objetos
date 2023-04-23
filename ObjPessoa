@@ -1,0 +1,7 @@
+const idade = 26
+const pessoa = {
+    nome: "Alfredo",
+    altura: 1.78,
+    idade : idade
+}
+
